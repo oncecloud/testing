@@ -40,6 +40,6 @@ Docker1.9+提供覆盖网络(overlay)，用于支持夸主机通信。本文选�
 
 - iperf安装
 - [overlay网络安装](https://github.com/oncecloud/testing/blob/master/overlay-install.md)
-- [OVS网络安装](https://github.com/oncecloud/testing/blob/master/ovs-install.md)
+- [ovs网络安装](https://github.com/oncecloud/testing/blob/master/ovs-install.md)
 
 ## 实验结果
