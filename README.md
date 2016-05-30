@@ -1,4 +1,4 @@
-# 容器夸主机网络overlay和ovs性能测试
+# Performance of Docker Overlay Network
 
 ## 摘要
 Docker1.9+提供覆盖网络(overlay)，用于支持夸主机通信。本文选取overlay网络模式和原生ovs网络模式，考虑CPU资源消耗、网络吞吐量和延迟三个度量指标，对比容器夸主机通信的性能。
