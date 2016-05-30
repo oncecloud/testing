@@ -8,6 +8,7 @@ Docker1.9+提供覆盖网络(overlay)，用于支持夸主机通信。本文选�
 #### 测试环境
 
 - 两台ThinkCenter M8000+主机，配置信息见下表(待补充)
+
 Spec |  Matrix
 				----|------|
 				Environment | Dell OPTIPLEX 9010
